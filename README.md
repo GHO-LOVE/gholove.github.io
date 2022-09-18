@@ -1,6 +1,6 @@
 # About GHOLove:
 
-Here comes a short multiple choice named as AYCHKnow V4.0+. 
+Here comes a short multiple choice named as GHOLove V4.0+. 
 The simple and dynamic GHOLove is written in JavaScript.
 
 ## Why GHOLove?
