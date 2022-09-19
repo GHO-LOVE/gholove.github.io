@@ -63,5 +63,70 @@ const myQuestions = [
     correctAnswer: "b",
     correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
     falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+  },
+  {
+    title: "Question 6 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    background: "<img src='./img/bg_slide5.jpg'>",
+    answers: {
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
+    },
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+  },
+  {
+    title: "Question 7 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    background: "<img src='./img/bg_slide5.jpg'>",
+    answers: {
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
+    },
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+  },
+  {
+    title: "Question 8 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    background: "<img src='./img/bg_slide5.jpg'>",
+    answers: {
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
+    },
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+  },
+  {
+    title: "Question 9 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    background: "<img src='./img/bg_slide5.jpg'>",
+    answers: {
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
+    },
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+  },
+  {
+    title: "Question 5 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    background: "<img src='./img/bg_slide5.jpg'>",
+    answers: {
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
+    },
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
   }
 ];
