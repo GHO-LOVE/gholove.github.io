@@ -39,29 +39,29 @@ const myQuestions = [
     falseAnswerText: "That´s wrong!<p>The main effects-to-be from GHO: No more CO2, zero hungerers, and not against the nature.</p>"
   },
   {
-    title: "Question 4 - Gifts",
-    question: "How do you call a gift in another word?<p>Select your answer then Confirm.</p>",
+    title: "Question 4 - Letter counting",
+    question: "Which word or phrase below has more than three letters 'i'?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide4.gif'>",
     answers: {
-      a: "Some time",
-      b: "A present ",
-      c: "A hand"
+      a: "A multi-interesting paper.",
+      b: "An initiative (or a multi-interesting idea).",
+      c: "An interesting idea."
     },
     correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>A present is used as other name of a gift.</p>",
-    falseAnswerText: "That is not correct.<p>Some time can be used as other word of present (like present moment). A hand is for human body description.</p>"
+    correctAnswerText: "That is correct.<p>An initiative has four letters 'i'. The point on this letter is round and becomes letter 'o' when we write in lowercase status.</p>",
+    falseAnswerText: "That is not correct.<p>An initiative (multi-interesting ideas). Or this word may have same meaning with diverse.</p>"
   },
   {
-    title: "Question 5 - Insects",
-    question: "You have passed some questions. Go ahead...<p>Butter is used with bread for our food. When you add a verb 'fly's as a suffix to butter, it is a name of an insect. What is it?</p><p>Select your answer then Confirm.</p>",
+    title: "Question 5 - CO2 formation",
+    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "Bird",
-      b: "Spider",
-      c: "Butter-fly"
+      a: "From the emissions of heat from the sun.",
+      b: "From the burning of fossil fuels combined with oxygen in the air.",
+      c: "From the rising up of the sea level."
     },
-    correctAnswer: "c",
-    correctAnswerText: "That is correct.<p>Yes. An insect named butter-fly can fly around us.</p>",
-    falseAnswerText: "That is not correct.<p>A bird can fly around us, too. However, butter-fly is the whole word for its kind of insect name.</p>"
+    correctAnswer: "b",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
+    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
   }
 ];
