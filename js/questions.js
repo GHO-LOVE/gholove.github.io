@@ -65,67 +65,69 @@ const myQuestions = [
     falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
   },
   {
-    title: "Question 6 - CO2 formation",
-    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    title: "Question 6 - The missing soil",
+    question: "How much area of which has been missing after the completed construction of buildings around the world?
+(An estimation of 80% of the Earth's surface that humans have modified)?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "From the emissions of heat from the sun.",
-      b: "From the burning of fossil fuels combined with oxygen in the air.",
-      c: "From the rising up of the sea level."
+      a: "18.1 million km2.",
+      b: "16.1 million km2.",
+      c: "14.5 million km2."
     },
-    correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
-    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+    correctAnswer: "c",
+    correctAnswerText: "That is correct.<p>Yes. Scientists explain An estimation of 80% of the Earth's surface that humans have modified for CO2-emissed roofs of buildings.</p>",
+    falseAnswerText: "That is not correct.<p>CO2-emissed roofs, combined with the heat rising up level, has threatened our world for years. At the same time, the missing soil on the Earth's surface (like implanted skin) has made our Mother Earth to cry for so many years, nights and days. Don't you think so?</p>"
   },
   {
-    title: "Question 7 - CO2 formation",
-    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    title: "Question 7 - GHO into action",
+    question: "Why do we need to turn GHO into action?
+(Because one of its purpose is to make peace with the Nature).<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "From the emissions of heat from the sun.",
-      b: "From the burning of fossil fuels combined with oxygen in the air.",
-      c: "From the rising up of the sea level."
+      a: "An initial estimation of about ten (10) million billions U.S.Dollars in less than a year time.",
+      b: "An initial estimation of about less than one million billions U.S.Dollars in less than a year time.",
+      c: "An initial estimation of about two million billions U.S.Dollars in less than a year time."
     },
-    correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
-    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+    correctAnswer: "c",
+    correctAnswerText: "That is correct.<p>Yes.  14.5 million km2 is about 80% of 18.1 million km2 of the Earth's surface that humans have modified for buildings, where green fields have gone.</p>",
+    falseAnswerText: "That is not correct.<p> Scientists reported that 18.1 million km2 of Earth's surface has been modified by humans. And 14.5 million km2 is about 80% of that number which is greater than Russia's area (17.1 million km2).</p>"
   },
   {
-    title: "Question 8 - CO2 formation",
-    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    title: "Question 8 - Thoughtful responsibility",
+    question: "A million billions U.S.Dollars initiative means:<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "From the emissions of heat from the sun.",
-      b: "From the burning of fossil fuels combined with oxygen in the air.",
-      c: "From the rising up of the sea level."
+      a: "Building more houses.",
+      b: "Returning the missing soil to the roofs of buildings.",
+      c: "Returning soil to grow trees."
     },
     correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
-    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+    correctAnswerText: "That is correct.<p>Yes. The missing soil on the Earth's surface has reduced the use of land for crops, and gone against the nature.</p>",
+    falseAnswerText: "That is not correct.<p>Anyone can grow trees beneath the buildings? No. So, is it a responsibility to return the missing soil to the roofs of buildings?</p>"
   },
   {
     title: "Question 9 - CO2 formation",
-    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    question: "Which cryptocurrency is used in GHO action programmes??<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "From the emissions of heat from the sun.",
-      b: "From the burning of fossil fuels combined with oxygen in the air.",
-      c: "From the rising up of the sea level."
+      a: "BTC.",
+      b: "EMS.",
+      c: "ETH."
     },
     correctAnswer: "b",
     correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
     falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
   },
   {
-    title: "Question 5 - CO2 formation",
-    question: "How is CO2 generated?<p>Select your answer then Confirm.</p>",
+    title: "Question 10 - CO2 formation",
+    question: "When was the latest update for EMS White Paper?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
-      a: "From the emissions of heat from the sun.",
-      b: "From the burning of fossil fuels combined with oxygen in the air.",
-      c: "From the rising up of the sea level."
+      a: "May 2020.",
+      b: "April 2021.",
+      c: "May 2022."
     },
-    correctAnswer: "b",
+    correctAnswer: "c",
     correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
     falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
   }
