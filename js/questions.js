@@ -26,7 +26,7 @@ const myQuestions = [
     falseAnswerText: "That is wrong.<p>May 2022!</p>"
   },
   {
-    title: "Question 3 - Positive Effects",
+    title: "Question 3 - Positive effects",
     question: "What are the main effects-to-be from GHO?</p><p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide3.jpg'>",
     answers: {
@@ -106,7 +106,7 @@ const myQuestions = [
     falseAnswerText: "That is not correct.<p>Anyone can grow trees beneath the buildings? No. So, is it a responsibility to return the missing soil to the roofs of buildings?</p>"
   },
   {
-    title: "Question 9 - CO2 formation",
+    title: "Question 9 - Cryptocurrency along with GHO",
     question: "Which cryptocurrency is used in GHO action programmes??<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
@@ -115,11 +115,11 @@ const myQuestions = [
       c: "ETH."
     },
     correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
-    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+    correctAnswerText: "EMS cryptocurrency was created in 2020 and has been verified to be along with GHO Action Programmes.</p>",
+    falseAnswerText: "That is not correct.<p>The correct answer is EMS. Its latest update of the EMS White Paper was on September 18, 2022, and is availavle at https://t.me/emsaction.</p>"
   },
   {
-    title: "Question 10 - CO2 formation",
+    title: "Question 10 - Latest update",
     question: "When was the latest update for EMS White Paper?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide5.jpg'>",
     answers: {
@@ -128,7 +128,7 @@ const myQuestions = [
       c: "May 2022."
     },
     correctAnswer: "c",
-    correctAnswerText: "That is correct.<p>Yes. Scientists explain that CO2 is formed from the burning of fossil fuels combined with oxygen in the air.</p>",
-    falseAnswerText: "That is not correct.<p>CO2 is formed from the burning of fossil fuels, combined with oxygen in the air. How to have more oxygen and less carbon dioxide?</p>"
+    correctAnswerText: "That is correct.<p>It was updated with two more points on September 18, 2022, incorporating into its first version on April 23, 2021.</p>",
+    falseAnswerText: "That is not correct.<p>The correct answer is c. EMS was first appeared on blockchain in 2020, with a purpose for green fields on the roofs</p>"
   }
 ];
