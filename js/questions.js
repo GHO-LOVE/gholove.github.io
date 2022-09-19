@@ -1,42 +1,42 @@
 const myQuestions = [
   {
-    title: "Question 1 - Days of the week",
-    question: "What is the day before Sunday?<p>Select your answer then Confirm.</p>",
+    title: "Question 1 - GHO name",
+    question: "What is the full name of GHO?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide1.jpg'>",
     answers: {
-      a: "Monday.",
-      b: "Saturday.",
-      c: "None of the above."
+      a: "Green fields on the roofs.",
+      b: "The Green House Roof Solution.",
+      c: "Green roofs of buildings."
     },
     correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>Saturday, Sunday, Monday, etc.</p>",
-    falseAnswerText: "That's not correct.<p>Monday is after Sunday, not before Sunday!</p>"
+    correctAnswerText: "That is correct.<p>The Green House Roof Solution, registered.</p>",
+    falseAnswerText: "That's not correct.<p>GHO full names, as described in all of its documents!</p>"
   },
   {
-    title: "Question 2 - Fruit",
-    question: "What kind of a fruit that half of it is made of a 'star' and another half is made of a 'fruit'?<p>Select your answer then Confirm.</p>",
+    title: "Question 2 - Formal",
+    question: "When was GHO formally registered?<p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide2.jpg'>",
     answers: {
-      a: "Grapefruit",
-      b: "Cherry",
-      c: "Star-fruit"
+      a: "May 2019",
+      b: "May 2021",
+      c: "May 2022"
     },
     correctAnswer: "c",
-    correctAnswerText: "That is correct.<p>Star-fruit is a kind of fruit that looks like a star in the shape. The star-fruit tastes either sour or sweet based on its variety.</p>",
-    falseAnswerText: "That is wrong.<p>Star-fruit!</p>"
+    correctAnswerText: "That is correct.<p>GHO ("Kết cấu Mái nhà xanh" - The Green House Roof Solution) was registered on May 26, 2022 as an intellectual property.</p>",
+    falseAnswerText: "That is wrong.<p>May 2022!</p>"
   },
   {
-    title: "Question 3 - Roles",
-    question: "How do you call a person who owns his/her book?</p><p>Select your answer then Confirm.</p>",
+    title: "Question 3 - Positive Effects",
+    question: "What are the main effects-to-be from GHO?</p><p>Select your answer then Confirm.</p>",
     background: "<img src='./img/bg_slide3.jpg'>",
     answers: {
-      a: "A Writer.",
-      b: "An Author.",
-      c: "A Journalist!"
+      a: "No more CO2, zero hungerers, and not against the nature.",
+      b: "No more CO2, not against the nature..",
+      c: "Zero hungerers."
     },
-    correctAnswer: "b",
-    correctAnswerText: "That is correct.<p>The person who owns his/her book is called as an Author!</p>",
-    falseAnswerText: "That´s wrong!<p>A Writer who writes a story, a topic, a white pages, etc. A Journalist is the person who writes for the newspaper, news topics, etc.</p>"
+    correctAnswer: "a",
+    correctAnswerText: "That is correct.<p>The main effects-to-be from GHO are positive effects, in its strategy principles: No more CO2, zero hungerers, and not against the nature.</p>",
+    falseAnswerText: "That´s wrong!<p>The main effects-to-be from GHO: No more CO2, zero hungerers, and not against the nature.</p>"
   },
   {
     title: "Question 4 - Gifts",
